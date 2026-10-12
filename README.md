@@ -20,5 +20,6 @@ Exemple : `https://raw.githubusercontent.com/thewidio/pigment-assets/main/mnh/mn
 | [`vigea/`](vigea/) | Vigéa | Fictive — cas de référence pilot Junior Academy |
 | [`eye/`](eye/) | EYE Asset Management | Fictive — société créée pour démonstration, sans lien avec une marque existante |
 | [`mnh/`](mnh/) | MNH (Mutuelle Nationale des Hospitaliers) | Réelle — client, assets dérivés des logos officiels partagés |
+| [`starter-kit/`](starter-kit/) | Starter Kit Workforce Planning | Neutre — habillage sans marque de la copie de démonstration VIGÉA RH |
 
 Chaque dossier a son propre README avec la liste des fichiers et leur usage.
